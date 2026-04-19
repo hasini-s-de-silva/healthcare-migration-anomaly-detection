@@ -184,7 +184,6 @@ This type of monitoring system could help migration teams:
 stalis-migration-anomaly-detection/
 │── data/
 │── outputs/
-│── notebooks/
 │── src/
 │── README.md
 │── requirements.txt
