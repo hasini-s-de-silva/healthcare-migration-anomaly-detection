@@ -181,7 +181,7 @@ This type of monitoring system could help migration teams:
 ## Repository Structure
 
 ```text
-stalis-migration-anomaly-detection/
+migration-anomaly-detection/
 │── data/
 │── outputs/
 │── src/
@@ -197,7 +197,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone <[https://github.com/hasini-s-de-silva/healthcare-migration-anomaly-detection]>
-cd stalis-migration-anomaly-detection
+cd migration-anomaly-detection
 pip install -r requirements.txt
 python main.py
 ```
