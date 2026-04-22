@@ -196,7 +196,7 @@ stalis-migration-anomaly-detection/
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repository-url>
+git clone <[https://github.com/hasini-s-de-silva/healthcare-migration-anomaly-detection]>
 cd stalis-migration-anomaly-detection
 pip install -r requirements.txt
 python main.py
